@@ -10,7 +10,4 @@ public class Node<M> {
         this.key = key;
     }
 
-    Node() {
-    }
-
 }
